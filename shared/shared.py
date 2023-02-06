@@ -21,5 +21,9 @@ def space_compress(stocomp):
     comp = re.sub(r'\s+', ' ', stocomp)
     return comp.strip()
 
+def hello_world():
+    print('Hello World')
+    return
+
 def new_func():
     pass
