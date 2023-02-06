@@ -1,1 +1,1 @@
-from shared.shared import afunction, clean_string, space_compress, GitHubInformation
+from shared.shared import afunction, clean_string, space_compress, gitHubInformation
