@@ -21,8 +21,9 @@ def space_compress(stocomp):
     comp = re.sub(r'\s+', ' ', stocomp)
     return comp.strip()
 
-def hello_world():
-    print("Hello World")
+def GitHubInformation():
+    print("Assignment: DS 5559 Lab #2")
+    print("Author: Andie McPartland (amm3hf)")
     
 
 def new_func():
