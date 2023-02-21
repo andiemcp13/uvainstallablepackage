@@ -7,6 +7,6 @@ setup(name='shared',
       description='This package has shared components.',
       author='Andie McPartland',
       author_email='amm3hf@virginia.edu',
-      packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
+      packages=find_packages(),
       license='LICENSE.txt',
     )
