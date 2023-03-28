@@ -32,5 +32,5 @@ def test_the_unknown():
 def test_onlyplatform():
 
     print(sys.platform)
-    test_value = 1 
+    test_value = 2 
     assert 2 == test_value, "Wrong value"
